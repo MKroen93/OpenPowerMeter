@@ -1,0 +1,12 @@
+(sym_lib_table
+  (lib (name "ADA4851-4")(type "Legacy")(uri "${KIPRJMOD}/libs/symbols/ADA4851-4/ADA4851-4.lib")(options "")(descr ""))
+  (lib (name "ADA4851-4_multipart")(type "KiCad")(uri "${KIPRJMOD}/libs/symbols/ADA4851-4/ADA4851-4_multipart.kicad_sym")(options "")(descr ""))
+  (lib (name "ADG659_multipart")(type "KiCad")(uri "${KIPRJMOD}/libs/symbols/ADG659/ADG659_multipart.kicad_sym")(options "")(descr ""))
+  (lib (name "LTC1966")(type "KiCad")(uri "${KIPRJMOD}/libs/symbols/LTC1966/LTC1966.kicad_sym")(options "")(descr ""))
+  (lib (name "ADA4851-2")(type "Legacy")(uri "${KIPRJMOD}/libs/symbols/ADA4851-2/ADA4851-2.lib")(options "")(descr ""))
+  (lib (name "ADA4851-2_multipart")(type "KiCad")(uri "${KIPRJMOD}/libs/symbols/ADA4851-2/ADA4851-2_multipart.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS65133")(type "KiCad")(uri "${KIPRJMOD}/libs/symbols/TPS65133/TPS65133.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS7A39")(type "KiCad")(uri "${KIPRJMOD}/libs/symbols/TPS7A39/TPS7A39.kicad_sym")(options "")(descr ""))
+  (lib (name "LMR51420")(type "KiCad")(uri "${KIPRJMOD}/libs/symbols/LMR51420/LMR51420.kicad_sym")(options "")(descr ""))
+  (lib (name "SISS73DN")(type "KiCad")(uri "${KIPRJMOD}/libs/symbols/SISS73DN/SISS73DN.kicad_sym")(options "")(descr ""))
+)
